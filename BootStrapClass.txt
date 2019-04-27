@@ -34,5 +34,14 @@ Text Alignment & Display:
 * d-block --> convert inline to block.
 * d-inline-block --> changes to inline for divs.
 
+Floats & Fixed Positions:
+
+* float-left, float-right, float-none --> floats the elements.
+* float-sm-right, float-md-right, float-lg-right, float-xl-right, float-sm-left, float-md-left, float-lg-left, float-xl-left, float-sm-none, float-md-none, float-lg-none, float-xl-none --> responsive floats.
+* clearfix --> clears for after element when using float. 
+* fixed-top --> always fixed at the top.
+* sticky-top --> sticks at the top when we scroll below the element.
+* fixed-bottom --> always at the bottom of the page.
+
 
 
