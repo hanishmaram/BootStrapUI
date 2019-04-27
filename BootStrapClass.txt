@@ -43,5 +43,11 @@ Floats & Fixed Positions:
 * sticky-top --> sticks at the top when we scroll below the element.
 * fixed-bottom --> always at the bottom of the page.
 
+Colors & Background:
+
+* (p & a tags) text-primary, text-secondary, text-success, text-info, text-warning, text-danger, text-light, text-dark, text-white, text-muted, text-black-50, text-white-50 --> colors based on the primay, secondary and so on.
+* bg-transparent, For background, use bg-(primary, secondary etcc..)
+* invisible --> visibility :hidden (we can't see spacing in the dom in display none)
+
 
 
