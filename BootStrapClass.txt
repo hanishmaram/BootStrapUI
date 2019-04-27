@@ -1,0 +1,38 @@
+--> By default bootstrap adds some styles to html elements. You can see by removing the bootstrap on raw html.
+
+--> In bootstrap we will basically have 4 diff. screen sizes
+    * xs --> In bootstrap 4 it is col-12 with out xs
+    * sm --> small
+    * md --> mediam
+    * lg --> Large
+    * xl --> extra large
+
+--> Block level elements --> div, p, h1-h6
+--> Inline elements --> span
+
+Typography:
+
+* h1 to h6 classes --> Gives styles of respective headers
+* display-1, display-2, display-3, display-4 --> Gives the bigger font size, weight and height.
+* lead --> increases font weight(less weight than header tag and equal to display classes) and size.
+* text-monospace --> monospace font family.
+* font-weight-bold, font-weight-normal, font-italic --> Gives bold, normal & italic fonts.
+* text-lowercase, text-uppercase, text-capitalize --> transforms to lowercase, uppercase and first letter upper respectivily.
+* blockquote, blockquote text-right, blockquote-footer
+* text-truncate --> Shows text in one line and 3 dots in the end.
+* list-unstyled --> un styles the unorder list.
+* list-inline, list-inline-item --> un styles the unorder list and show items in one line.
+
+Text Alignment & Display:
+
+* text-justify --> justifies the text in that element.
+* text-left, text-center, text-right --> Aligns the text.
+* text-sm-right, text-md-right, text-lg-right, text-xl-right, text-sm-left, text-md-left, text-lg-left, text-xl-left, text-sm-center, text-md-center, text-lg-center, text-xl-center 
+    --> aligns the text based on condition (screensize>=). and for very small (xs) use defaults (text-left, text-right, text-center).
+* align-baseline, align-top, align-bottom, align-middle, align-text-top, align-text-bottom --> verical alignment
+* d-inline --> convert block level to inline.
+* d-block --> convert inline to block.
+* d-inline-block --> changes to inline for divs.
+
+
+
