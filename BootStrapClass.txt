@@ -49,5 +49,31 @@ Colors & Background:
 * bg-transparent, For background, use bg-(primary, secondary etcc..)
 * invisible --> visibility :hidden (we can't see spacing in the dom in display none)
 
+Spacing :
+* mb-0, mb-1, mb-2(default), mb-3, mb-4, mb-5 --> margin bottom 
+{property}{sides}-{size}
+### property
+m - for classes that set margin
+p - for classes that set padding
+
+### sides
+t - for classes that set margin-top or padding-top
+b - for classes that set margin-bottom or padding-top
+l - for classes that set margin-left or padding-left
+r - for classes that set margin-right or padding-right
+x - for classes that set both *-left and *-right
+y - for classes that set both *-top and *-bottom
+blank - for classes that set a margin or padding on all 4 sides of the element.
+
+### size
+0 - for classes that eliminates the margin or padding by setting it to 0.
+1 - (by default) for classes that set the margin or padding to $spacer-x *.25 or $spacer-y *.25
+2 - (by default) for classes that set the margin or padding to $spacer-x *.5 or $spacer-y *.5
+3 - (by default) for classes that set the margin or padding to $spacer-x or $spacer-y
+4 -
+5 -
+auto - 
+
+
 
 
