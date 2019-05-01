@@ -92,6 +92,20 @@ Breakpoints:
 * max-width:767px --> small devices
 * max-width:1199px --> large devices
 
+Buttons & button groups:
+
+* btn, btn btn-primary, btn btn-secondary, btn btn-success, btn btn-info, btn btn-warning, btn btn-danger, btn btn-light, btn btn-dark, btn btn-link --> button classes
+* we can use these button classes on other elements also a , button, input button, input submit, input reset
+* btn btn-outline-colorclass 
+* btn btn-primary btn-lg, btn-sm, btn-block --> button sizes.
+* active, disabled, toggle --> button states
+* btn-group, btn-group-vertical --> Groups the buttons.
+* btn-toolbar
+* button dropdown --> dropdown, dropdown-toggle, dropdown-menu, dropdown-item.
+* split dropdown
+
+
+
 
 
 
