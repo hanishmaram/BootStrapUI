@@ -74,6 +74,25 @@ blank - for classes that set a margin or padding on all 4 sides of the element.
 5 -
 auto - 
 
+sizing:
+
+* w-25, w-50, w-75, w-100, w-auto --> Gives the width in percentage.
+* h-25, h-50, h-75, h-100, h-auto --> Gives the height in percentage.
+* border, border-top, border-bottom, border-right, border-left --> Gives border for the element.
+* border-primary, border-secondary, border-success, border-info, border-warning, border-danger, border-light, border-dark, border-white --> border with color class will give border with color.
+* border rounded border-success, border rounded-top, border rounded-bottom, border rounded-right, border rounded-left, w-25 border rounded-circle (makes circle), border rounded-0 (removes the border) --> Border with rounded class combination.
+
+Breakpoints:
+
+* @media(min-width:576px){} --> This styles applies when view is having >=576px;
+* min-width:768px --> Medium devices
+* min-width:992px --> Large devices
+* min-width:1200px --> extra large desktops
+* max-width:575px --> extra small
+* max-width:767px --> small devices
+* max-width:1199px --> large devices
+
+
 
 
 
