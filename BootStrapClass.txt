@@ -109,6 +109,30 @@ Navbar:
 * navbar navbar-expand-sm navbar-light bg-light
 * Completly examples
 
+List Group:
+
+* list-group, list-group-item, list-group-item active, list-group-item list-group-item-success, list-group-item list-group-item-secondary, breadcrumb 
+
+Forms :
+
+* form-group, form-control, form-control form-control-lg, custom-file, customfile-input, custom-file-label.
+* form-inline, form-check, form-check-label, form-check-input
+* form-row, col, is-invalid, is-valid, invalid-feedback
+
+Input Group:
+
+* input-group, input-group-prepend, input-group-text, form-control.
+* input-group, input-group-append, input-group-text, form-control.
+
+alert  & progress bars:
+
+* alert alert-allcolors
+* progress, progress-bar, progress-bar-allcolors, progress-bar progress-bar-striped, progress-bar progress-bar-animated
+
+tables:
+
+* table, table-dark, 
+* Seee code for more
 
 
 
